@@ -10,7 +10,7 @@ from subprocess import call
 import os
 
 # path to cursor
-CURSOR = '/usr/share/applications/cursor.desktop'
+CURSOR = 'cursor'
 
 # what name do you want to see in the context menu?
 CURSORDNAME = 'Cursor'
